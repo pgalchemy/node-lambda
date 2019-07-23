@@ -1,6 +1,6 @@
 {
   "name": "node-lambda",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Command line tool for locally running and remotely deploying your node.js applications to Amazon Lambda.",
   "main": "lib/main.js",
   "directories": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rebelmail/node-lambda.git"
+    "url": "git://github.com/pgalchemy/node-lambda.git"
   },
   "keywords": [
     "lambda",
@@ -27,7 +27,7 @@
     "deployment"
   ],
   "readmeFilename": "README.md",
-  "author": "motdotla",
+  "author": "gabriel@alchemy.codes",
   "license": "BSD-2-Clause",
   "devDependencies": {
     "aws-sdk-mock": "^1.6.1",
